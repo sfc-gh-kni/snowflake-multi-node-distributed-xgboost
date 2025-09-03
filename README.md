@@ -237,13 +237,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Snowflake** for Container Runtime and ML capabilities
 - **XGBoost** community for the excellent gradient boosting framework
-- **Contributors** who helped test and improve this demo
+- **Contributors** Kai Ni
 
 ## 📞 **Support**
 
 - **Documentation**: See inline notebook comments and this README
 - **Issues**: Create a GitHub issue for bugs or feature requests
-- **Snowflake Support**: Contact Snowflake support for platform-specific issues
 
 ---
 
